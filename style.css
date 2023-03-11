@@ -27,7 +27,7 @@ html{
     position: sticky;
     top: 0;
     cursor: pointer;
-    
+    z-index: 1;
 }
 .nav-list{
     width: 100%;
@@ -219,7 +219,7 @@ border-radius: 9px;
     display: block;
     }
     .h-nav-respo{
-        height: 442px;
+        height: 72px;
     }
     .v-class-respo{
         opacity: 0;
